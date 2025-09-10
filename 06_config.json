@@ -1,0 +1,18 @@
+{
+  "appName": "dev-starter",
+  "env": "development",
+  "logging": {
+    "level": "info",
+    "destination": "stdout"
+  },
+  "database": {
+    "host": "localhost",
+    "port": 5432,
+    "user": "dev",
+    "db": "starter"
+  },
+  "features": {
+    "betaUI": true,
+    "telemetry": false
+  }
+}
